@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikas1000/grind75_and_more_vikas1000/tree/master/0001-two-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vikas1000/grind75_and_more_vikas1000/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/vikas1000/grind75_and_more_vikas1000/tree/master/0584-find-customer-referee) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vikas1000/grind75_and_more_vikas1000/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
